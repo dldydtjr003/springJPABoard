@@ -22,14 +22,11 @@
 ### **Backend**
 * **Framework:** Spring Boot 5.0.1
 * **Language:** Java 17
-* **Database:** H2 Database (or MySQL)
+* **Database:** Oracle
 * **ORM:** Spring Data JPA
-* **Template Engine:** Thymeleaf
 
 ### **Tools**
 * **VCS:** Git, Sourcetree
-* **Build Tool:** Gradle
-* **IDE:** IntelliJ / STS
 
 ---
 
